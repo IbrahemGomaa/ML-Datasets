@@ -8,7 +8,7 @@ https://www.kaggle.com/paulh2718/oil-spill
 https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 https://www.kaggle.com/robmarkcole/occupancy-detection-data-set-uci
 https://archive.ics.uci.edu/ml/datasets/abalone
-https://data.world/data-society/bank-marketing-data
+https://www.kaggle.com/datasets/ruthgn/bank-marketing-data-set
 https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 https://www.kaggle.com/datasets/mexwell/drink-and-drive
 https://www.kaggle.com/datasets/prachi13/customer-analytics
